@@ -1,1 +1,1 @@
-Choice Is Yours
+Choice Is Yours - console game in C++.

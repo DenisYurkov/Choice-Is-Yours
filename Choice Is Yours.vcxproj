@@ -141,6 +141,15 @@
   <ItemGroup>
     <ClCompile Include="Choice Is Yours.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="workingWithFiles.h" />
+    <ClInclude Include="userName.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="questionAndAnswer1.txt" />
+    <Text Include="titleGame.txt" />
+    <Text Include="userName.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

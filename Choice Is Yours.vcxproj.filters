@@ -43,5 +43,14 @@
     <Text Include="userName.txt">
       <Filter>Source Files\Text</Filter>
     </Text>
+    <Text Include="startText.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="Answer if answered correctly.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="startText2.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
   </ItemGroup>
 </Project>

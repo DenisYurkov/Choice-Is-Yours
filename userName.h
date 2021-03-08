@@ -3,6 +3,6 @@
 string userName;
 void askName()
 {
-	cout << "\nWhat your name: ";
+	cout << "\nWrite your name: ";
 	cin >> userName;
 }

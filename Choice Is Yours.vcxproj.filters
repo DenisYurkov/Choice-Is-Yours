@@ -32,11 +32,23 @@
     <ClInclude Include="workingWithFiles.h">
       <Filter>Source Files\Functions</Filter>
     </ClInclude>
+    <ClInclude Include="allVariables.h">
+      <Filter>Source Files\Functions</Filter>
+    </ClInclude>
+    <ClInclude Include="statistics.h">
+      <Filter>Source Files\Functions</Filter>
+    </ClInclude>
+    <ClInclude Include="allQuestions.h">
+      <Filter>Source Files\Functions</Filter>
+    </ClInclude>
+    <ClInclude Include="mainLogicFunction.h">
+      <Filter>Source Files\Functions</Filter>
+    </ClInclude>
+    <ClInclude Include="endings.h">
+      <Filter>Source Files\Functions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="titleGame.txt">
-      <Filter>Source Files\Text</Filter>
-    </Text>
     <Text Include="questionAndAnswer1.txt">
       <Filter>Source Files\Text</Filter>
     </Text>
@@ -46,10 +58,136 @@
     <Text Include="startText.txt">
       <Filter>Source Files\Text</Filter>
     </Text>
-    <Text Include="Answer if answered correctly.txt">
+    <Text Include="startText2.txt">
       <Filter>Source Files\Text</Filter>
     </Text>
-    <Text Include="startText2.txt">
+    <Text Include="UI.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="UI2.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="questionAndAnswer2.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="questionAndAnswer3.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="questionAndAnswer4.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="questionAndAnswer5.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="questionAndAnswer6.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="questionAndAnswer7.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="questionAndAnswer8.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="questionAndAnswer9.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="questionAndAnswer10.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="questionAndAnswer11.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="questionAndAnswer12.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="questionAndAnswer13.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="questionAndAnswer14.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="questionAndAnswer15.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="questionAndAnswer16.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="questionAndAnswer17.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="questionAndAnswer18.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="questionAndAnswer19.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="questionAndAnswer20.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="questionAndAnswer21.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="questionAndAnswer22.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="veryGoodChoice1.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="badChoice1.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="GoodChoice1.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="veryBadChoice1.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="Day1UI.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="NotImportantQuestion1.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="History1.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="NotImportantQuestion2.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="TheEnd1.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="titleGame.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="playAgain.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="Day2UI.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="Day3UI.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="History2.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="VeryGoodEnd.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="GoodEnd.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="MediumEnd.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="BadEnd.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="VeryBadEnd.txt">
+      <Filter>Source Files\Text</Filter>
+    </Text>
+    <Text Include="caption.txt">
       <Filter>Source Files\Text</Filter>
     </Text>
   </ItemGroup>

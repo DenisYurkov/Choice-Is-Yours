@@ -142,16 +142,62 @@
     <ClCompile Include="Choice Is Yours.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="allQuestions.h" />
+    <ClInclude Include="allVariables.h" />
+    <ClInclude Include="endings.h" />
+    <ClInclude Include="mainLogicFunction.h" />
+    <ClInclude Include="statistics.h" />
     <ClInclude Include="workingWithFiles.h" />
     <ClInclude Include="userName.h" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="Answer if answered correctly.txt" />
+    <Text Include="badChoice1.txt" />
+    <Text Include="BadEnd.txt" />
+    <Text Include="caption.txt" />
+    <Text Include="Day1UI.txt" />
+    <Text Include="Day2UI.txt" />
+    <Text Include="Day3UI.txt" />
+    <Text Include="GoodChoice1.txt" />
+    <Text Include="GoodEnd.txt" />
+    <Text Include="History1.txt" />
+    <Text Include="History2.txt" />
+    <Text Include="MediumEnd.txt" />
+    <Text Include="NotImportantQuestion1.txt" />
+    <Text Include="NotImportantQuestion2.txt" />
+    <Text Include="playAgain.txt" />
     <Text Include="questionAndAnswer1.txt" />
+    <Text Include="questionAndAnswer10.txt" />
+    <Text Include="questionAndAnswer11.txt" />
+    <Text Include="questionAndAnswer12.txt" />
+    <Text Include="questionAndAnswer13.txt" />
+    <Text Include="questionAndAnswer14.txt" />
+    <Text Include="questionAndAnswer15.txt" />
+    <Text Include="questionAndAnswer16.txt" />
+    <Text Include="questionAndAnswer17.txt" />
+    <Text Include="questionAndAnswer18.txt" />
+    <Text Include="questionAndAnswer19.txt" />
+    <Text Include="questionAndAnswer2.txt" />
+    <Text Include="questionAndAnswer20.txt" />
+    <Text Include="questionAndAnswer21.txt" />
+    <Text Include="questionAndAnswer22.txt" />
+    <Text Include="questionAndAnswer3.txt" />
+    <Text Include="questionAndAnswer4.txt" />
+    <Text Include="questionAndAnswer5.txt" />
+    <Text Include="questionAndAnswer6.txt" />
+    <Text Include="questionAndAnswer7.txt" />
+    <Text Include="questionAndAnswer8.txt" />
+    <Text Include="questionAndAnswer9.txt" />
     <Text Include="startText.txt" />
     <Text Include="startText2.txt" />
+    <Text Include="TheEnd1.txt" />
     <Text Include="titleGame.txt" />
+    <Text Include="UI.txt" />
+    <Text Include="UI2.txt" />
     <Text Include="userName.txt" />
+    <Text Include="veryBadChoice1.txt" />
+    <Text Include="VeryBadEnd.txt" />
+    <Text Include="veryGoodChoice1.txt" />
+    <Text Include="VeryGoodEnd.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

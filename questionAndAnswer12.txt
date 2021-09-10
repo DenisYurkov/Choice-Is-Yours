@@ -1,0 +1,5 @@
+Are you interested in other people(Write 1 or 2 or 3 or 4)?:
+	1. I didn't lose interest in other people.
+	2. I'm less interested in other people than before.
+	3. I've almost lost interest in other people.
+	4. I've lost my interest in other people.

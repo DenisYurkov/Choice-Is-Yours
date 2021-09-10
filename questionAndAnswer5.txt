@@ -1,0 +1,5 @@
+Do you get satisfaction from life?(Write 1 or 2 or 3 or 4)?:
+	1. I'm getting the same satisfaction from life as I used to.
+	2. I don't get the same satisfaction from life as I used to.
+	3. I don't get the satisfaction of anything anymore.
+	4. I'm completely dissatisfied with my life, and I' m sick of it.

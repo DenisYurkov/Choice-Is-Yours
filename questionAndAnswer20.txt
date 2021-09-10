@@ -1,0 +1,5 @@
+Are you worried about your health(Write 1 or 2 or 3 or 4)?:
+	1. I m worried about my health not more than usual.
+	2. I'm concerned about my physical health problems, such as pain, stomach problems, pores, etc.
+	3. I'm very concerned about my physical condition, and it's hard for me to think of anything else.
+	4. I'm so concerned about my physical condition that I can' t think of anything else.

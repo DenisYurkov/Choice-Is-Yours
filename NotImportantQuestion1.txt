@@ -1,5 +1,0 @@
-
-Be rude or apologize(Write 1 or 2):
-	1. Be rude.
-	2. Apologize.
-

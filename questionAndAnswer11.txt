@@ -1,5 +1,0 @@
-Are you noticing that you've become more irritable(Write 1 or 2 or 3 or 4)?:
-	1. I'm not more irritable right now than usual.
-	2. I'm more easily annoyed than before.
-	3. Now I feel like I'm annoyed.
-	4. I've become indifferent to things that annoyed me before.

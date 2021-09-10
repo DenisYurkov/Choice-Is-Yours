@@ -1,5 +1,0 @@
-Have you changed your appetite(Write 1 or 2 or 3 or 4)?:
-	1. My appetite is no worse than usual.
-	2. My appetite has become worse than before.
-	3. My appetite's much worse now.
-	4. I don 't even have an appetite.

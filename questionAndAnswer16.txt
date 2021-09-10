@@ -1,5 +1,0 @@
-You sleep well(Write 1 or 2 or 3 or 4)?:
-	1. I sleep as well as before.
-	2. I'm getting worse now than I used to.
-	3. I wake up for one or two hours before, and it's hard for me to sleep again.
-	4. I wake up a few hours earlier, and I can 't sleep anymore.
